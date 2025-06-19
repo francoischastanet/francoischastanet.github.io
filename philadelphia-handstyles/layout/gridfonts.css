@@ -293,6 +293,7 @@
 	    font-size: calc(var(--typesize) * 7);
 	    line-height: 0.85;
 	    color: white;
+	    word-break: break-all;
 		}
 
 	h2 a

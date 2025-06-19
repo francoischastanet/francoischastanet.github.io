@@ -490,6 +490,7 @@
 	    h2 
 	    	{
 	        font-size: calc(var(--typesize) * 4);
+	        hyphens: manual;
 	    	}
 
         p
